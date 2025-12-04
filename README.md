@@ -13,7 +13,7 @@ Strona z zadaniami:
 | 2       | ✅ Zrobione |
 | 5       | ✅ Zrobione |
 | 6       | ✅ Zrobione |
-| 9       | ✅ Zrobione |
+| 9       | ✅ Zrobione, poza posortowana z wartownikiem |
 | 10      | ❌ Nie zrobione |
 | 12      | ❌ Nie zrobione |
 | 14      | ❌ Nie zrobione |
