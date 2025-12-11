@@ -1,0 +1,72 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\ConsoleApplication1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{99D44B6A-48D2-4D88-8CED-B7206E077235}|ConsoleApplication1.vcxproj|C:\\Users\\User\\Documents\\GitHub\\algsot\\Zadanie9-1\\zad9.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99D44B6A-48D2-4D88-8CED-B7206E077235}|ConsoleApplication1.vcxproj|C:\\Users\\User\\Documents\\GitHub\\algsot\\Zadanie9-1\\zad9.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99D44B6A-48D2-4D88-8CED-B7206E077235}|ConsoleApplication1.vcxproj|C:\\Users\\User\\Documents\\GitHub\\algsot\\Zadanie9-1\\mail.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "mail.cpp",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\algsot\\Zadanie9-1\\mail.cpp",
+              "RelativeDocumentMoniker": "..\\..\\Documents\\GitHub\\algsot\\Zadanie9-1\\mail.cpp",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\algsot\\Zadanie9-1\\mail.cpp",
+              "RelativeToolTip": "..\\..\\Documents\\GitHub\\algsot\\Zadanie9-1\\mail.cpp",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAAEQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-11T00:03:10.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "zad9.h",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\algsot\\Zadanie9-1\\zad9.h",
+              "RelativeDocumentMoniker": "..\\..\\Documents\\GitHub\\algsot\\Zadanie9-1\\zad9.h",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\algsot\\Zadanie9-1\\zad9.h",
+              "RelativeToolTip": "..\\..\\Documents\\GitHub\\algsot\\Zadanie9-1\\zad9.h",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-12-11T00:02:27.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "zad9.c",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\algsot\\Zadanie9-1\\zad9.c",
+              "RelativeDocumentMoniker": "..\\..\\Documents\\GitHub\\algsot\\Zadanie9-1\\zad9.c",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\algsot\\Zadanie9-1\\zad9.c",
+              "RelativeToolTip": "..\\..\\Documents\\GitHub\\algsot\\Zadanie9-1\\zad9.c",
+              "ViewState": "AgIAAFUAAAAAAAAAAAAwwGAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-12-11T00:03:08.799Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
