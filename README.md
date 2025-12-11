@@ -11,10 +11,11 @@ Strona z zadaniami:
 |---------|--------|
 | 1       | ✅ Zrobione |
 | 2       | ✅ Zrobione |
+| 4       | ✅ Zrobione |
 | 5       | ✅ Zrobione |
 | 6       | ✅ Zrobione |
-| 9       | ✅ Zrobione, poza posortowana z wartownikiem |
-| 10      | ❌ Nie zrobione |
+| 9       | ✅ Zrobione |
+| 10      | ✅ Zrobione  |
 | 12      | ❌ Nie zrobione |
 | 14      | ❌ Nie zrobione |
 | 16      | ❌ Nie zrobione |
