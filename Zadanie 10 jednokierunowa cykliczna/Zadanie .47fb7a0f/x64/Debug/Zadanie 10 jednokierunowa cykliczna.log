@@ -1,0 +1,7 @@
+﻿  zadanie125.c
+C:\Users\User\Documents\GitHub\algsot\Zadanie 10 jednokierunowa cykliczna\zadanie125.c(8,18): warning C4033: "znajdzkoniec" musi zwracać wartość
+C:\Users\User\Documents\GitHub\algsot\Zadanie 10 jednokierunowa cykliczna\zadanie125.c(80,18): warning C4033: "ZnajdzDanyElement" musi zwracać wartość
+C:\Users\User\Documents\GitHub\algsot\Zadanie 10 jednokierunowa cykliczna\zadanie125.c(86,16): warning C4047: "!=": "lista *" różni się w poziomach operatorów pośrednich od "lista"
+C:\Users\User\Documents\GitHub\algsot\Zadanie 10 jednokierunowa cykliczna\zadanie125.c(14,1): warning C4715: "znajdzkoniec”: niewszystkie ścieżki kodu zwracają wartość
+C:\Users\User\Documents\GitHub\algsot\Zadanie 10 jednokierunowa cykliczna\zadanie125.c(88,1): warning C4715: "ZnajdzDanyElement”: niewszystkie ścieżki kodu zwracają wartość
+  Zadanie 10 jednokierunowa cykliczna.vcxproj -> C:\Users\User\Documents\GitHub\algsot\Zadanie 10 jednokierunowa cykliczna\x64\Debug\Zadanie 10 jednokierunowa cykliczna.exe
