@@ -42,12 +42,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 6,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
@@ -58,8 +54,7 @@
               "RelativeToolTip": "Zadanie9-1\\zad9.c",
               "ViewState": "AgIAAKYAAAAAAAAAAAAgwMMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-12-04T02:38:14.816Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-04T02:38:14.816Z"
             },
             {
               "$type": "Document",
@@ -71,8 +66,7 @@
               "RelativeToolTip": "Zadanie9-1\\zad9.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-12-04T02:38:14.258Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-04T02:38:14.258Z"
             },
             {
               "$type": "Document",
@@ -84,8 +78,7 @@
               "RelativeToolTip": "Zadanie9-1\\mail.cpp",
               "ViewState": "AgIAAEUAAAAAAAAAAAAmwGkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-12-04T02:38:12.503Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-04T02:38:12.503Z"
             },
             {
               "$type": "Document",
@@ -97,8 +90,7 @@
               "RelativeToolTip": "Zadanie9-6 bez wartownikiem\\zadanie.c",
               "ViewState": "AgIAAJcAAAAAAAAAAAAmwLsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-12-04T02:37:27.153Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-04T02:37:27.153Z"
             },
             {
               "$type": "Document",
@@ -110,8 +102,7 @@
               "RelativeToolTip": "Zadanie9-6 z wartownikem\\zadanie.c",
               "ViewState": "AgIAAG4AAAAAAAAAAAAmwJIAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-12-04T02:34:26.947Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-04T02:34:26.947Z"
             },
             {
               "$type": "Document",
@@ -123,8 +114,7 @@
               "RelativeToolTip": "Zadanie9-6 z wartownikem\\zadanie.h",
               "ViewState": "AgIAAAIAAAAAAAAAAAAmwCYAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-12-04T02:34:23.213Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-04T02:34:23.213Z"
             },
             {
               "$type": "Document",
@@ -149,8 +139,11 @@
               "RelativeToolTip": "Zadanie9-6 z wartownikem\\main.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-12-04T02:30:48.549Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-04T02:30:48.549Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             }
           ]
         }
