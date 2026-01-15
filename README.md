@@ -19,8 +19,8 @@ Strona z zadaniami:
 | 12      | ❌ Nie zrobione |
 | 14      | ❌ Nie zrobione |
 | 16      | ❌ Nie zrobione |
-| 21      | ❌ Nie zrobione |
+| 21      | Zrobione nie wstawione|
 | 22      | ❌ Nie zrobione |
-| 25      | ❌ Nie zrobione |
+| 25      | Zrobione nie wstawione|
 
 ---
