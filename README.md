@@ -21,8 +21,6 @@ Strona z zadaniami:
 | 21      | ✅ Zrobione |
 | 22      | ✅ Zrobione |
 | 25      | ✅ Zrobione |
-
-## Zadania dodatkowe
 | 3       | ✅ Zrobione |
 | 4       | ✅ Zrobione |
 
