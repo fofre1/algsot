@@ -22,17 +22,13 @@ Strona z zadaniami:
 | 22      | ✅ Zrobione |
 | 25      | ✅ Zrobione |
 
----
-
-Poprawne wykonanie zadań 1, 2, 5, 6, 9, 10, 12, 14, 16, 21, 22, 25 
-
----
-
 ## Zadania dodatkowe
 | 3       | ✅ Zrobione |
 | 4       | ✅ Zrobione |
 
 ---
+
+Poprawne wykonanie zadań 1, 2, 5, 6, 9, 10, 12, 14, 16, 21, 22, 25 
 
 Zadania dodatkowe 3, 4
 
