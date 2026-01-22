@@ -19,7 +19,7 @@ Strona z zadaniami:
 | 10      | ✅ Zrobione |
 | 12      | ❌ Nie zrobione |
 | 14      | ✅ Zrobione |
-| 16      | ❌ Nie zrobione |
+| 16      | ✅ Zrobione |
 | 21      | ✅ Zrobione |
 | 22      | ✅ Zrobione |
 | 25      | ✅ Zrobione |
